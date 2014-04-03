@@ -9,6 +9,6 @@ script assets from node_modules, bower_components
 (after shimming and uglifying them), and app-
 specific scripts to form a naive app. We showed
 off using client side rendering of swig templates, 
-because why not. We also showed a client logging 
+because why not! We also showed a client logging 
 mechanism that allows the client to log directly
-to the server. Fun. 
+to the server. Fun. :D
