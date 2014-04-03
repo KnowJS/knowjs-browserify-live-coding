@@ -1,0 +1,23 @@
+{
+  "name": "knowjs-browserify-live-coding",
+  "version": "0.0.0",
+  "homepage": "https://github.com/KnowJS/knowjs-browserify-live-coding",
+  "authors": [
+    "Matt Walters <mattwalters5@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

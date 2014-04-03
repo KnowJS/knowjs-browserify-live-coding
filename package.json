@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.5.0",
+    "jade": "*",
+    "shoe": "0.0.15",
+    "dnode": "~1.2.0"
+  },
+  "devDependencies": {
+    "browserify": "~3.38.0",
+    "gulp-browserify": "~0.5.0",
+    "gulp": "~3.6.0"
+  }
+}
